@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopsRUs.Api", "ShopsRUs.Api.csproj", "{F80B3087-A3F4-4EE2-B5AF-A04486011E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopsRUs.Tests", "..\ShopsRUs.Tests\ShopsRUs.Tests.csproj", "{D9072B2C-3FFA-4BBB-B575-45227CDC714B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80B3087-A3F4-4EE2-B5AF-A04486011E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80B3087-A3F4-4EE2-B5AF-A04486011E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80B3087-A3F4-4EE2-B5AF-A04486011E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80B3087-A3F4-4EE2-B5AF-A04486011E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9072B2C-3FFA-4BBB-B575-45227CDC714B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9072B2C-3FFA-4BBB-B575-45227CDC714B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9072B2C-3FFA-4BBB-B575-45227CDC714B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9072B2C-3FFA-4BBB-B575-45227CDC714B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA7B6E82-EE96-48C7-A80C-FA1CB9B24CFD}
+	EndGlobalSection
+EndGlobal
