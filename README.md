@@ -60,3 +60,6 @@ You can test on these four users using the sample data below.You can test it wit
 
 
 ```
+## SonarQube Report
+![](ShopsRUs.Api/shoprus%20sonarqube.PNG)
+
